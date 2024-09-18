@@ -1,16 +1,8 @@
-# untitled
+Практическая работа 3
 
-A new Flutter project.
+Кудрявцев Никита Дмитриевич
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/user-attachments/assets/03ce5ccd-4324-45c9-b51f-e379531d59b5)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/efbc8c83-9d03-4527-b45c-550f47e97052)
